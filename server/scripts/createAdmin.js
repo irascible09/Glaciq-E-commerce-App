@@ -9,8 +9,8 @@ const MONGO_URI = process.env.MONGO_URL;
 
     await Admin.create({
         name: "admin",
-        email: "admin",
-        password: "adminpass",
+        email: "[EMAIL_ADDRESS]",
+        password: "[PASSWORD]",
     });
 
     console.log("✅ Admin created");
