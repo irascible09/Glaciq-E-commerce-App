@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@react-native-picker/picker": "^2.11.4",
+    "crypto": "^1.0.1",
+    "moment": "^2.30.1",
+    "razorpay": "^2.9.6",
+    "react-native-element-dropdown": "^2.12.4"
+  }
+}
