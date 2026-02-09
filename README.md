@@ -1,2 +1,4 @@
 # Glaciq-E-commerce-App
-Full-stack water delivery e-commerce platform with authentication, secure payments, order management, and admin dashboard.
+
+A scalable water delivery platform designed for real-world production use.
+The system supports user authentication, saved delivery addresses, secure online payments (Razorpay), order tracking, admin inventory control, webhook-based payment verification, inactivity-based auto logout, and RESTful APIs optimized for mobile clients.
